@@ -138,7 +138,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![alt text](<../Screenshot 2025-09-24 232459.png>)
+![alt text](<Screenshot 2025-09-24 232459.png>)
 
 
 ## RESULT
